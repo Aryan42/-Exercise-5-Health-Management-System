@@ -1,0 +1,18 @@
+def getdate():
+
+           import datetime
+
+           return datetime.datetime.now()
+           # This is used to take the Time at which a user inputs.
+           
+           Creating new 6 files is important.
+           Named:
+           Rohan Exercises.txt
+           Rohan Food.txt
+           Harry Exercises.txt
+           Harry Food.txt
+           Hammad Exercises.txt
+           Hammad Food.txt
+           
+           
+           Thank u 
